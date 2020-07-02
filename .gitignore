@@ -1,0 +1,39 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.idea/*
+*.iml
+*/target/
+**/.DS_Store
+target/
+rebel.xml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+selenium-debug.log
+test/unit/coverage
+test/e2e/reports
+
+erp-web-publish/src/main/webapp/10000
+erp-web-publish/src/main/webapp/index.html
+erp-web-publish/src/main/webapp/erpResource
+erp-web-publish/src/main/resources/*.xls
+erp-web-publish/src/main/resources/*.xlsx
+erp-web-publish/src/main/webapp/web/config/index.js
+
+.idea/
+
+erp-web-publish/.rebel*
